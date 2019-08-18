@@ -708,6 +708,7 @@
    overflow: auto;
    display: table;
    width: 70%;
+   z-index: 1;
  }
 
  #svg-cara #OBJECTS {
